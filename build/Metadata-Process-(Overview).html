@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>&lt;no title&gt; &mdash; sandbox 1 documentation</title>
+    
+    <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '1',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="top" title="sandbox 1 documentation" href="index.html" />
+   
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head>
+  <body role="document">  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <p>##Initial steps:</p>
+<ul class="simple">
+<li>Gather existing data about the collection</li>
+<li>Verify for consistency and accuracy</li>
+<li>Compare to any existing DTD or schema used in the past</li>
+</ul>
+<p>##Choosing a schema and standard:</p>
+<ul class="simple">
+<li>Choose a schema that works with your platform (eg. MODS for Islandora)</li>
+<li>Standard will be determined by content (eg. RDA for published and DACS for archival materials)</li>
+<li>Some schema (like MODS) will allow inclusion of two standards</li>
+</ul>
+<p>##Assignment of metadata work:</p>
+<ul class="simple">
+<li>Metadata librarian gathers existing data (MARC record; Finding Aid)</li>
+<li>Student workers create data according to a pre-existing template as they scan and add it to IPTC core plug-in in Adobe Bridge</li>
+<li>Digital librarian gathers data from scanning, exports it to Excel sheets, and merges it with existing data</li>
+<li>Catalogers review data, add controlled vocabulary, and verify consistency in Excel</li>
+</ul>
+<p>##Sample of metadata gathered during scanning:</p>
+<ul class="simple">
+<li>Date created: Today’s date</li>
+<li>Description: This is the same as the description after the underscore, with the date written out as: [comma to separate description from date] 1866 January 5.</li>
+<li>Description Writer: Your name</li>
+<li>Sublocation: Author’s name [last, first if available]</li>
+<li>City: Contributor (Recipient’s name [last, first if available])</li>
+<li>State/Province: Place stamped on letter [city, state if available]</li>
+<li>Country: Date on letter or stamp or year of order made [yyyymmdd]</li>
+<li>Headline: Number for the military order</li>
+<li>Keywords: Total number of pages in the item (ie. Page 1 of 5)</li>
+</ul>
+<p>##Sample of corrections made by catalogers:</p>
+<ul class="simple">
+<li>Add subject terms (sometimes copied from existing records)</li>
+<li>Replace raw data with authorized terms (ie. La Nouvelle-Orléans becomes New Orleans (La.))</li>
+<li>Add titles that meet description standard</li>
+</ul>
+<p>##Metadata wrangling pre-upload:</p>
+<ol class="simple">
+<li>Digital librarian migrates Excel sheets to tab-delimited text files</li>
+<li>Metadata librarian runs a php script to transform txt files to arbitrary XML</li>
+<li>Metadata librarian transforms XML to MODS (or other XML language) using X-Proc pipeline consisting of a combination of scripts written in Python, XSLT, and php</li>
+<li>Digital librarian and metadata librarian verify one-to-one match of metadata and binary files</li>
+</ol>
+<p>##Final upload process:</p>
+<ul class="simple">
+<li>Dependent on digital library platform</li>
+<li>For CONTENTdm, ignore steps 2 and 3 of wrangling; instead run txt files through ASAP Utilities and upload using one of CONTENTdm&#8217;s import methods</li>
+<li>For Islandora, zip metadata files and binary files into one upload folder per collection, and run automated batch import for zip folders</li>
+</ul>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper"><div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="index.html">Documentation overview</a><ul>
+  </ul></li>
+</ul>
+</div>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="_sources/Metadata-Process-(Overview).txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    <p class="searchtip" style="font-size: 90%">
+    Enter search terms or a module, class or function name.
+    </p>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2016, jrp.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 1.3.6</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.7</a>
+      
+      |
+      <a href="_sources/Metadata-Process-(Overview).txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>
