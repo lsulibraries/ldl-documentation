@@ -12,7 +12,6 @@ Contents:
    :maxdepth: 2
 
    using-sphinx
-   test
    Home
    ansible
    Digital-Library-Research
@@ -22,16 +21,13 @@ Contents:
    Epson-Flatbed-Scanner-Guide
    Equipment-Information
    genindex
-   ansible
    Digital-Library-Research
    Digital-Project-Introduction-for-Student-Workers
    Digital-Project-Proposal
    Digital-Projects-Lifecycle-for-Collaborators
    Epson-Flatbed-Scanner-Guide
-   test
    Why-Participate-in-the-LDL?
    Zeutschel-OS-12000-Advanced-Scanning-Procedures
-   willdidit   
 
 Indices and tables
 ==================
