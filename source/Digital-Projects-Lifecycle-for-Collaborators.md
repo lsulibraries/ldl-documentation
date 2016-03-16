@@ -1,4 +1,4 @@
-#Digital Projects Lifecycle
+Digital Projects Lifecycle
 ===========================
 ###Audience:
 
