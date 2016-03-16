@@ -1,5 +1,5 @@
-
-
+Equipment Info
+==============
 
 <h1>Scanning Capabilities</h1>
 

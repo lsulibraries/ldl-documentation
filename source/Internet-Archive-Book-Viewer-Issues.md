@@ -1,3 +1,6 @@
+Internet Archive Book Viewer Issues
+===================================
+
 #Testing Internet Archive Book Module: 
 ##“Worked” ie. An item was actually added, though none of the pages show up:
 <titleInfo>
