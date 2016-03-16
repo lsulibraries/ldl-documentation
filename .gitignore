@@ -1,5 +1,7 @@
 *
+!make.bat
+!Makefile
 !README.md
-!makedocs.sh
+!makedocs
 !source/*
 !*/
