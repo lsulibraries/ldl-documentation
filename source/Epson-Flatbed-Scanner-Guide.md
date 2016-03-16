@@ -1,4 +1,4 @@
-#Epson 10000XL (Flatbed) 
+Epson 10000XL (Flatbed) 
 ========================
 ##General Procedure:
 
