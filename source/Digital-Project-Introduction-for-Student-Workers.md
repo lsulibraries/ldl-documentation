@@ -1,3 +1,6 @@
+Intro for Student Workers
+=========================
+
 ##Why is student work so important to digital services?
 Digital projects at LSU could not exist without the hard work of our student workers. Student workers primarily participate in the digital project process by digitizing the materials and creating some basic metadata for items during the digitization process. Without student work, the number of collections we could digitize each year would be dependent on grant money and would necessarily shrink to 1-2 each year.
 

@@ -1,3 +1,6 @@
+About
+=====
+
 ## What is the Louisiana Digital Library? 
 * A digital portal for institutions (libraries, archives, museums, etc.) in the state to add items/collections of a variety of different material types
 * A publicly accessible, free web resource for students, educators, general public, etc.

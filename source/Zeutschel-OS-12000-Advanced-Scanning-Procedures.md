@@ -1,4 +1,5 @@
 Zeutschel OS 12000 Advanced Scanning Procedures
+===============================================
 
 Preparing the Scanner Software Settings:
 1.	Open the Omni 10 software on the desktop. (Image 1)

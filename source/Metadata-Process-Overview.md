@@ -1,3 +1,6 @@
+Metadata Process
+================
+
 ##Initial steps:
 * Gather existing data about the collection
 * Verify for consistency and accuracy

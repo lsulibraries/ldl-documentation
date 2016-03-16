@@ -1,3 +1,6 @@
+Why Participate?
+================
+
 ##What is it and what does it include?
 The Louisiana Digital Library (LDL) is an online library, containing photographs, maps, manuscript content, books, oral histories, and other documents and records of history and culture contributed by eligible Louisiana cultural heritage Content Providers such as libraries, archives, museums and other nonprofit organizations. 
 

@@ -1,3 +1,6 @@
+Digital Collections Best Practices
+==================================
+
 ##Scope:
 This policy is used in concert with the LSU Libraries Collection Development Policy (CDP) and the CDP of any other contributing departments or collaborators. The digital collections included on the Louisiana Digital Library are chosen by our collaborators. This best practices document attempts to describe considerations these collaborators should make when beginning a project.
 

@@ -1,4 +1,5 @@
-#Epson 10000XL (Flatbed) 
+Epson 10000XL (Flatbed) 
+========================
 ##General Procedure:
 
 Items should be placed facing down with the top of the item toward the front of the scanner if possible. To access the scanning software click on the “EPSON Scan” thumbnail on the Desktop.

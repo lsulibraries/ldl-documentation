@@ -1,4 +1,5 @@
-#Digital Projects Lifecycle
+Digital Projects Lifecycle
+===========================
 ###Audience:
 
 All potential collaborators with LSU Libraries Digital Services.
