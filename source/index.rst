@@ -27,18 +27,6 @@ Contents:
    Digital-Project-Proposal
    Digital-Projects-Lifecycle-for-Collaborators
    Epson-Flatbed-Scanner-Guide
-   Equipment-Information
-   genindex
-   Home
-   Internet-Archive-Book-Viewer-Issues
-   LDL---LSU-Agreement
-   LDL-System-Needs
-   LSU-Digital-Collections-Best-Practices
-   Markdown Basics
-   Metadata-Process-(Overview)
-   objects.inv
-   Oral History Requirements
-   PDF-viewer-and-OHMS-exploration
    test
    Why-Participate-in-the-LDL?
    Zeutschel-OS-12000-Advanced-Scanning-Procedures   
