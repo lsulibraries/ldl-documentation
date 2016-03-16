@@ -30,7 +30,8 @@ Contents:
    Epson-Flatbed-Scanner-Guide
    test
    Why-Participate-in-the-LDL?
-   Zeutschel-OS-12000-Advanced-Scanning-Procedures   
+   Zeutschel-OS-12000-Advanced-Scanning-Procedures
+   newpage   
 
 Indices and tables
 ==================
