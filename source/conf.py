@@ -52,9 +52,9 @@ templates_path = ['_templates']
 master_doc = 'index'
 
 # General information about the project.
-project = u'sandbox'
-copyright = u'2016, jrp'
-author = u'jrp'
+project = u'LDL Documentation'
+copyright = u'2016, LSU Libraries'
+author = u'github.com/lsulibraries'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

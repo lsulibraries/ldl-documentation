@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to sandbox's documentation!
+Welcome to LDL documentation
 ===================================
 
 Contents:
@@ -13,7 +13,6 @@ Contents:
 
    using-sphinx
    Home
-   ansible
    Digital-Library-Research
    Digital-Project-Introduction-for-Student-Workers
    Digital-Project-Proposal
@@ -21,17 +20,5 @@ Contents:
    Epson-Flatbed-Scanner-Guide
    Equipment-Information
    genindex
-   Digital-Library-Research
-   Digital-Project-Introduction-for-Student-Workers
-   Digital-Project-Proposal
-   Digital-Projects-Lifecycle-for-Collaborators
-   Epson-Flatbed-Scanner-Guide
    Why-Participate-in-the-LDL?
    Zeutschel-OS-12000-Advanced-Scanning-Procedures
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
