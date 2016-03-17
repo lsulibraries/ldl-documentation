@@ -1,10 +1,21 @@
-## sphinx source
+## Editing/Making new documents through github web interface
 
-## to use
+Open or make a file in /source with extension .rst
+Use restructured text -- online editors available (i.e., http://rst.ninjs.org/)
+Ask someone with an AWS key to pull your changes from the git repo and push it to AWS.
 
-* get sphinx
-* get AWS keys
-* install AWS CLI http://docs.aws.amazon.com/cli/latest/userguide/installing.html
-* configure AWS CLI to us AWS keys and configure
-* edit source files
-* run makedocs from root dir: `./makedocs`
+
+## Updating website on AWS
+
+install and configure git
+install python
+install pip for python
+pip install sphinx
+pip install recommonmark
+contact Will for AWS key
+git clone https://github.com/lsulibraries/ldl-documentation
+cd ldl-documentation/source
+DO YO MAGIC writing documentation in restructured text format (.rst)
+don’t forget to add filename (without extenstion) to index.rst – see examples
+cd ..
+./makedocs (then follow the prompts)
