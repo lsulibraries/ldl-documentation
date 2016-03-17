@@ -1,7 +1,7 @@
 How it works
 ============
 
-This is a static site, rendered with Spinx, and served through S3.
+This is a static site, rendered with Sphinx, and served through S3.
 
 Roughly, here's how we set things up:
 
