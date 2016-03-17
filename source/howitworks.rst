@@ -14,5 +14,12 @@ Roughly, here's how we set things up:
 * use the macro script `makedocs` to push to github and s3
 
 
+In the end, the workflow for editors should be simple:
+
+* git clone the repo
+* edit rst files
+* `./makedocs`
+
 Future improvements:
+
 * use webhooks andd AWS lambda to move sphinx off the author's local system https://aws.amazon.com/blogs/compute/dynamic-github-actions-with-aws-lambda/
