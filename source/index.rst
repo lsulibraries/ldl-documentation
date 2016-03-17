@@ -12,7 +12,6 @@ Contents:
    :maxdepth: 2
 
    using-sphinx
-   Home
    Digital-Library-Research
    Digital-Project-Introduction-for-Student-Workers
    Digital-Project-Proposal
