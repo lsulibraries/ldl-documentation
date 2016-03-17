@@ -11,7 +11,7 @@
 ##### Updating website on AWS
 
 - install and configure git
-- install python and pip for python
+- install python
 - install pip for python
 - contact Will for AWS key
 
