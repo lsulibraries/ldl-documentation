@@ -22,3 +22,14 @@ Contents:
    genindex
    Why-Participate-in-the-LDL?
    Zeutschel-OS-12000-Advanced-Scanning-Procedures
+   Internet-Archive-Book-Viewer-Issues
+   LDL---LSU-Agreement
+   LDL-System-Needs
+   LSU-Digital-Collections-Best-Practices
+   Markdown_Basics
+   Metadata-Process-Overview
+   Oral-History-Requirements
+   PDF-viewer-and-OHMS-exploration
+   Why-Participate-in-the-LDL
+   howitworks
+   
