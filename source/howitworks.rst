@@ -23,3 +23,4 @@ In the end, the workflow for editors should be simple:
 Future improvements:
 
 * use webhooks andd AWS lambda to move sphinx off the author's local system https://aws.amazon.com/blogs/compute/dynamic-github-actions-with-aws-lambda/
+* test...
