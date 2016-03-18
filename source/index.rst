@@ -11,15 +11,12 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   using-sphinx
    Digital-Library-Research
    Digital-Project-Introduction-for-Student-Workers
    Digital-Project-Proposal
    Digital-Projects-Lifecycle-for-Collaborators
    Epson-Flatbed-Scanner-Guide
    Equipment-Information
-   genindex
-   Why-Participate-in-the-LDL?
    Zeutschel-OS-12000-Advanced-Scanning-Procedures
    Internet-Archive-Book-Viewer-Issues
    LDL---LSU-Agreement
@@ -31,7 +28,7 @@ Contents:
    PDF-viewer-and-OHMS-exploration
    Why-Participate-in-the-LDL
    howitworks
-   test
+
    
 
 
