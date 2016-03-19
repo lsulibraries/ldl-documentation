@@ -112,7 +112,7 @@ Another Chapter Level
 
 
 #######################################################################################################################################################################################################
-Try editing this in an rst editor (such as rst.ninjs.org).  The source rst file for this page is located at https://github.com/lsu_libraries/ldl-documentation/source/examples.rst 
+Try editing this in an rst editor (such as rst.ninjs.org).  The source rst file for this page is located at https://github.com/lsulibraries/ldl-documentation/blob/master/source/Example.rst
 #######################################################################################################################################################################################################
 
 * A thing.
