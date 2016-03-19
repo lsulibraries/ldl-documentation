@@ -23,6 +23,7 @@ Contents:
    LDL-System-Needs
    LSU-Digital-Collections-Best-Practices
    Markdown_Basics
+   Examples
    Metadata-Process-Overview
    Oral-History-Requirements
    PDF-viewer-and-OHMS-exploration
