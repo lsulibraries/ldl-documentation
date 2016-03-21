@@ -17,7 +17,6 @@
 
 ```
 pip install sphinx
-pip install recommonmark
 git clone https://github.com/lsulibraries/ldl-documentation
 cd ldl-documentation/source
 ```
