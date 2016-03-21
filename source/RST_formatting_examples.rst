@@ -1,18 +1,16 @@
 .. Commented Out
 
 
+#######################
+RST Formatting Examples
+#######################
 
-###########################################
-A Parts Level
-###########################################
-
-.. sectnum::
 
 .. contents:: The tiny table of contents
 
-***************************
+*************************
 What is reStructuredText?
-***************************
+*************************
 
 An easy-to-read, what-you-see-is-what-you-get plaintext markup syntax
 and parser system, abbreviated *rst*. In other words, using a simple
@@ -24,9 +22,9 @@ text editor, documents can be created which
   - html and 
   - latex (and therefore pdf)
 
-***************************
+********************
 What is it good for?
-***************************
+********************
 
 reStructuredText can be used, for example, to
 
@@ -37,9 +35,9 @@ reStructuredText can be used, for example, to
 
 - to document source code
 
-******************************************
+********************************
 Show me some formatting examples
-******************************************
+********************************
 
 You can highlight text in *italics* or, to provide even more emphasis
 in **bold**. Often, when describing computer code, we like to use a
@@ -61,17 +59,18 @@ well. It provides very good support for including html-links in a
 variety of ways. Any section and subsections defined can be linked to,
 as well.
 
-******************************************
+***********************
 Where can I learn more?
-******************************************
+***********************
 
 reStructuredText is described at
 http://docutils.sourceforge.net/rst.html. We provide some geeky small
 print in this footnote [2]_.
 
-******************************************
+*******************************
 Show me some more stuff, please
-******************************************
+*******************************
+
 We can also include figures:
 
 .. figure:: image.png
@@ -80,9 +79,6 @@ We can also include figures:
 
    Png is a file format that is both acceptable for html pages as well as for (pdf)latex.
 
-########################
-Another Parts Level
-########################
 
 |  # with overline, for parts
 |  * with overline, for chapters
@@ -111,7 +107,7 @@ Another Chapter Level
 **********************
 
 
-#######################################################################################################################################################################################################
+
 Try editing this in an rst editor (such as rst.ninjs.org).  The source rst file for this page is located at https://github.com/lsulibraries/ldl-documentation/blob/master/source/Example.rst
 #######################################################################################################################################################################################################
 

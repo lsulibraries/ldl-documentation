@@ -3,33 +3,21 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+============================
 Welcome to LDL documentation
-===================================
+============================
 
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-   Digital-Library-Research
-   Digital-Project-Introduction-for-Student-Workers
-   Digital-Project-Proposal
-   Digital-Projects-Lifecycle-for-Collaborators
-   Epson-Flatbed-Scanner-Guide
-   Equipment-Information
-   Zeutschel-OS-12000-Advanced-Scanning-Procedures
-   Internet-Archive-Book-Viewer-Issues
    LDL---LSU-Agreement
-   LDL-System-Needs
+   Digital-Library-Research
+   Digital-Projects-Lifecycle-for-Collaborators
    LSU-Digital-Collections-Best-Practices
-   Markdown_Basics
-   RST_formatting_examples
-   Metadata-Process-Overview
-   Oral-History-Requirements
-   PDF-viewer-and-OHMS-exploration
    Why-Participate-in-the-LDL
-   howitworks
-
+   LSU_Lib_Internal_Notes
    
 
 

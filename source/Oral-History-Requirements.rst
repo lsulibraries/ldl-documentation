@@ -1,14 +1,19 @@
-#ORAL HISTORY REQUIREMENTS
-==========================
+=========================
+ORAL HISTORY REQUIREMENTS
+=========================
 
-##MINIMUM REQUIREMENTS
+********************
+MINIMUM REQUIREMENTS
+********************
 
 The *minimum* requirements for Oral History are the following.
 
 1. Listen *and* Read - The user can listen to an audio file while reading the
 transcript of the audio file on the same screen.
 
-##IDEAL REQUIREMENTS
+******************
+IDEAL REQUIREMENTS
+******************
 
 The *ideal* requirements for Oral History are the following.
 
@@ -21,7 +26,9 @@ forward and backward.
 
 3. Searchable Text - The text can be searched for phrases and keywords. 
 
-##EVOLVING BEST PRACTICE
+**********************
+EVOLVING BEST PRACTICE
+**********************
 
 1. The transcript, when searched or selected, will automatically select the related moment in the audio file.
 

@@ -1,6 +1,11 @@
+
+=======================
 Epson 10000XL (Flatbed) 
-========================
-##General Procedure:
+=======================
+
+******************
+General Procedure:
+******************
 
 Items should be placed facing down with the top of the item toward the front of the scanner if possible. To access the scanning software click on the “EPSON Scan” thumbnail on the Desktop.
 
@@ -44,9 +49,13 @@ The resulting file should be saved to the appropriate patron scans folder on the
 
 At times, a request will specify that the item should be scanned at a percentage of its size or with an output of a certain width or height. If the images are being made smaller, these changes can also be made in Photoshop by clicking on “Image” then “Image Size.” If they are being made larger, suggested procedure would be to make the changes during the scanning process. If a particular width and height is requested, change the number of pixels. If a particular percentage of its size is requested, change “Pixels” to “Percent” and then change the number in the box to the left. Never scan an item at less than 100%! 
 
-##Examples of Specific Procedures:
+********************************
+Examples of Specific Procedures:
+********************************
 
-###Scanning a patron-requested letter as a 300ppi .jpg
+
+Scanning a patron-requested letter as a 300ppi jpg
+==================================================
 
 1. Verify the settings on the EPSON Scan module.
  * Document Type: Reflective
@@ -95,7 +104,7 @@ At times, a request will specify that the item should be scanned at a percentage
       * Click Save
       * A module titled JPEG Options will appear. Image Options: Quality should be 10.
       * Click OK
-5.	Sharing the Image
+5.    Sharing the Image
  * After all of the images have been scanned, edited, and saved open the file on the R: drive on which they have been saved.
  * Using Shift and the mouse, select all of the edited JPEG files.
  * Copy them using CTRL-C.
@@ -103,7 +112,9 @@ At times, a request will specify that the item should be scanned at a percentage
  * Create a new folder with the date, patron name, and collection number.
  * Save the images to the new folder with CTRL-V
 
-###Scanning Black and White Negative Film at 200% to be used in an Exhibit
+Scanning Black and White Negative Film at 200% to be used in an Exhibit
+=======================================================================
+
 1. Verify the settings on the EPSON Scan module.
  * Document Type: Film
  * Film Type: B&W Negative Film
@@ -133,7 +144,7 @@ At times, a request will specify that the item should be scanned at a percentage
 
 ![Image 2](https://github.com/lsulibraries/repository/blob/master/wikiimages/New%20Image%2002.jpg)
 
-4.	Alter the Image
+4.    Alter the Image
  * After the image is scanned the file with the completed image will appear on the screen. Double click on the image of the letter and Photoshop will open.
  * Rotate the item, if necessary, so that it is upright and the edges are as close to level as possible.
       * Select Image, then Image Rotation, then Arbitrary and .5° CCW

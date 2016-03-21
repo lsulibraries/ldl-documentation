@@ -1,5 +1,6 @@
-How it works
-============
+==============
+Sphinx process
+==============
 
 This is a static site, rendered with Sphinx, and served through S3.
 

@@ -5,7 +5,8 @@ PDF viewer and OHMS
 
 ![thunsei](rtilla1_errors/Broken-Book-Module-2.jpg)
 
-#Steps thus far (5/21/2015)
+Steps thus far (5/21/2015)
+--------------------------
 
 On 5/21/2015 at 10:30 am, rtilla requested an OHMS instance for LSU Libraries titled LSU Libraries. As of 5/21/2015, no confirmation of this had been recieved.
 

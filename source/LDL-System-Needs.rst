@@ -36,7 +36,7 @@ Connect to external metadata/bib records (like the EAD in UCLA’s manuscript mo
 2. Incoporates AEON|LSU Admins; Departments (Spec. Coll.) |Can probably just embed in xlink in metadata
 If it breaks, need capability to reset to last known point of proper functioning|Uploaders; LDC; LSU Admins; End-Users; Departments | Vagrant?
 
-##Assessing Further Needs (6/1/15-8/15/15):
+## Assessing Further Needs (6/1/15-8/15/15):
 1. Apply for IRB exemption (IRB ruled no clearance needed)
 2. Discuss LDL System Needs (or a revised and clearer version of it) with stakeholders
    * LDC
@@ -53,7 +53,7 @@ If it breaks, need capability to reset to last known point of proper functioning
      * Create an alternate preference if necessary. (ie. Upload MODS, change MARCXML transformation; disable ImageMagic modifications during image uploading; etc.) 
 
 
-##Theoretical Implementation:
+## Theoretical Implementation:
 1. Supply developer(s) with lists of modules and list details about how the modules should work based on the results of the user stories. (Finalize original list by 7/15)
 2. Create MODS records for all collections that contain simple images and test existing batch upload module to migrate these collections first. (July/August)
 3. Attempt a new/revised collection: Oral Histories
