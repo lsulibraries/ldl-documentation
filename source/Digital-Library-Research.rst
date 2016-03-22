@@ -2,7 +2,7 @@
 ===============
 Introduction
 ===============
-
+-test
 Research about statewide and regional digital libraries similar to the Louisiana Digital Library commenced in Fall 2013 at LSU, as Deans and directors from several institutions considered options besides LOUIS serving as the administrator. Ultimately the institutions decided to work independently of LOUIS and form a separate consortium, the Louisiana Digital Consortium. As of June 30, 2014, the LDL has been independent. 
 
 *****************************************************************
