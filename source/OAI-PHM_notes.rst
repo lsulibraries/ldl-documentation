@@ -26,7 +26,7 @@ Key Terms
 - source: [OpenArchive site](https://www.openarchives.org/OAI/openarchivesprotocol.html)
 
 
-Harvesting via OAI-PHM, from localhost Islandora & from our friends at Tulane:
+Harvesting via OAI-PMH, from localhost Islandora & from our friends at Tulane:
 ******************************************************************************
 
 * https://github.com/caseyamcl/phpoaipmh
