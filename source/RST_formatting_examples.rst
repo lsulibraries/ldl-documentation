@@ -73,7 +73,7 @@ Show me some more stuff, please
 
 We can also include figures:
 
-.. figure:: image.png
+.. figure:: _static/tiger.png
    :width: 300pt
 
 
