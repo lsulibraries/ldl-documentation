@@ -18,7 +18,7 @@ To ensure digital project planning and workflow are documented and understood.
 Project Pre-Assessment
 *****************************************************************
 
-  1. Collaborating institutions or departments will submit a [Digital Services project proposal] (https://github.com/lsulibraries/repository/wiki/Digital-Project-Proposal).
+  1. Collaborating institutions or departments will submit a [Digital Services project proposal] (http://www.lib.lsu.edu/services/digital/policies).
 
     * Collaborator(s) will determine projects or collections according to their own collection development policy (CDP) and preservation and access priorities.
     * If the Collaborator does not have a collection development policy the project can be assessed with the LSU Libraries CDP and LSU Digital Collections Best Practices (link forthcoming).
