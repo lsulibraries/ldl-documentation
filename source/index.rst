@@ -30,6 +30,6 @@ This is the authoritative source for information about the Louisiana Digital Lib
 
 Our long-term goal is a website that describing the digitization process from idea to long-term maintenance, including adaptations to new best practices, tools, and software platforms.
 
-A website that provides similar information about a multi-site Islandora infrastructure and related digital project process is `FL-Islandora Guides <https://fig.wiki.flvc.org/wiki/index.php/Main_Page>`__. This site is an excellent place to look for a "wiki providing detailed user documentation and how-tos to university & college librarians and library staff."
+For more information on  multi-site Islandora infrastructure and related digital project process visit `FL-Islandora Guides <https://fig.wiki.flvc.org/wiki/index.php/Main_Page>`__. This site is an excellent place to look for a "wiki providing detailed user documentation and how-tos to university & college librarians and library staff."
 
-Another similar site that provides an example of documentation for an individual institution's metadata and digital services documentation is [UA Libraries Metadata & Digital Services](http://www.lib.ua.edu/wiki/digcoll/index.php/Main\_Page).
+This link provides an example of documentation for an individual institution's metadata and digital services documentation is `UA Libraries Metadata & Digital Services <http://www.lib.ua.edu/wiki/digcoll/index.php/Main_Page>`__.
