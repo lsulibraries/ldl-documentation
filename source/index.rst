@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-============================
-Welcome to LDL documentation
-============================
+=================
+LDL-Documentation
+=================
 
 Contents:
 
@@ -20,7 +20,7 @@ Contents:
    
 
 
-This is the authoritative source for information about the Louisiana Digital Library (LDL) produced by Louisiana State University's LSU Libraries. LSU Digital Services will provide continual updates with information about the history of the LDL, publications about new and existing collections in the LDL, and details about the development of the new Louisiana Digital Library Islandora platform. This site includes documentation describing procedures, policies, and past practices of the department. This documentation is constantly evolving as the tools available and the projects assigned grow and change. It currently includes: 
+Welcome to the authoritative source for information about the Louisiana Digital Library (LDL) produced by Louisiana State University's LSU Libraries Digital Services department. We provide updates about the new Louisiana Digital Library Islandora platform. This site includes documentation describing procedures, policies, and past & present practices of the department. This documentation is constantly evolving as the tools available and the projects assigned grow and change.
 
 * Information about the equipment available in our digital lab 
 * How-to guides for students and GAs 
